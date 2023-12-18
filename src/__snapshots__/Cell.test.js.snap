@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot for lit cell 1`] = `
+<div
+  className="MuiBox-root css-0"
+  onClick={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "borderRadius": "8px",
+      "cursor": "pointer",
+      "display": "flex",
+      "height": "100px",
+      "justifyContent": "center",
+      "width": "100px",
+    }
+  }
+/>
+`;
+
+exports[`matches snapshot for unlit cell 1`] = `
+<div
+  className="MuiBox-root css-0"
+  onClick={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "darkgray",
+      "borderRadius": "8px",
+      "cursor": "pointer",
+      "display": "flex",
+      "height": "100px",
+      "justifyContent": "center",
+      "width": "100px",
+    }
+  }
+/>
+`;

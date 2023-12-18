@@ -1,0 +1,17 @@
+/* Board.css */
+.board-container {
+  margin: 20px auto;
+  padding: 20px;
+  width: fit-content;
+}
+
+.win-message {
+  color: green;
+}
+
+.board {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+/* Add more styles as needed */

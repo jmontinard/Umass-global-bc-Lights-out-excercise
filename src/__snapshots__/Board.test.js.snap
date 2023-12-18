@@ -1,0 +1,1230 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`checks for a win and shows 'You won!' message 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation3 board-container css-3su884-MuiPaper-root"
+  >
+    <table
+      class="MuiTable-root board css-rqglhn-MuiTable-root"
+    >
+      <tbody
+        class="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+      >
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: white; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: white; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: white; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: white; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: white; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: white; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: white; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;
+
+exports[`handles cell-clicking 1`] = `
+<div>
+  <table>
+    <tbody>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell "
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell "
+        />
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`renders Board without crashing and matches snapshot 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation3 board-container css-3su884-MuiPaper-root"
+>
+  <table
+    className="MuiTable-root board css-rqglhn-MuiTable-root"
+    role={null}
+  >
+    <tbody
+      className="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+      role={null}
+    >
+      <tr
+        className="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        role={null}
+      >
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+      </tr>
+      <tr
+        className="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        role={null}
+      >
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+      </tr>
+      <tr
+        className="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        role={null}
+      >
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+      </tr>
+      <tr
+        className="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        role={null}
+      >
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+      </tr>
+      <tr
+        className="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        role={null}
+      >
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+        >
+          <div
+            className="MuiBox-root css-0"
+            onClick={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderRadius": "8px",
+                "cursor": "pointer",
+                "display": "flex",
+                "height": "100px",
+                "justifyContent": "center",
+                "width": "100px",
+              }
+            }
+          />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`renders the Board component 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation3 board-container css-3su884-MuiPaper-root"
+  >
+    <table
+      class="MuiTable-root board css-rqglhn-MuiTable-root"
+    >
+      <tbody
+        class="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+      >
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: white; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: white; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: white; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: white; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: white; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: white; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: darkgray; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiBox-root css-0"
+              style="height: 100px; width: 100px; background-color: white; cursor: pointer; border-radius: 8px; display: flex; align-items: center; justify-content: center;"
+            />
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;
+
+exports[`renders the starter Board 1`] = `
+<div>
+  <table>
+    <tbody>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell "
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell Cell-lit"
+        />
+        <td
+          class="Cell "
+        />
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
